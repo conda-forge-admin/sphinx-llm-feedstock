@@ -27,6 +27,7 @@ requirements:
     - python >=${{ python_min }}
     - sphinx-markdown-builder >=0.6.8
     - sphinx >=5
+    - markdown-it-py
 
 tests:
   - python:
